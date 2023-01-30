@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A little about me..."
+title: "About Me: A Human Curious About Biology Stuff"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,19 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-A Ph.D student in Computational Biology
-======
-Place holder for breif intro of phd research.
+"Enjoy your body. It's the greatest instrument you'll even own." <br>
+&nbsp;&nbsp;&nbsp;&nbsp; ---<cite>Sunscreen Song by Mary Schmich</cite>
 
-Understanding Biology via Data
-======
-Place holder for my interest in biology.
 
-Genomics
+Better Understanding of Biology via Computation
+======
+Documenting the Human User Manual is a hard problem.
+I wish to add a bit of contributioin to that.
+
+Computational Protein Design & Engineering
 ------
-Place holder for my interest in genomics.
+Is my research topic in graduate school.
+
+Genomics and Next Generatrion Sequencing
+------
+Is what I hope to do next
 
 Coding
 ------
-Place holder for my interest in programming.
-
+Is a very cool thing that I enjoy.
