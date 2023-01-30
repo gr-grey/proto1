@@ -12,14 +12,17 @@ main:
   - title: "Blogs"
     url: /year-archive/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Dev Logs &#128736" # &#128736 is the hammer_and_wrench emoji
+    url: /dev-logs/
 
-  - title: "Teaching"
-    url: /teaching/    
+# - title: "Talks"
+#   url: /talks/    
+
+# - title: "Teaching"
+#   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+# - title: "Portfolio"
+#   url: /portfolio/
     
 # - title: "Guide"
 #   url: /markdown/
