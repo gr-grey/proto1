@@ -190,6 +190,9 @@ collections:
   devlogs:
     output: true
     permalink: /:collection/:path/
+  courses:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -251,6 +254,14 @@ defaults:
   - scope:
       path: ""
       type: devlogs
+    values:
+      layout: single
+      author_profile: true
+      share: false
+  # _courses
+  - scope:
+      path: ""
+      type: courses
     values:
       layout: single
       author_profile: true
