@@ -13,7 +13,7 @@ Placeholder for my understandings
 
 Some courses I took.
 
-## Introduction to Genomics
+## [Introduction to Genomics](/courses/2023/01/introduction-to-genomics/)
 
 * Placeholder for course summary.
 
