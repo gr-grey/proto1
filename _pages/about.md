@@ -17,9 +17,14 @@ Now here's some great advice from the Sunscreen Song:
 
 Harness Computing Power to Help Understand Biology
 ======
-The human body is an intricate and wonderful machine, with a poorly documented user manual.
+The human body is an intricate machine, 
+and documenting the *Human User Manual* is a hard and intriguing problem.
 
-We have yet to fully understand the function of sleep, the cause of aging and various diseases, how the cocktail of neurochemical molecules shape our mental and physical states, that eventually lead to some bizarre human behaviors. 
+We have yet to fully understand the function of sleep, the cause of aging and various diseases, how the cocktail of neurochemical molecules shape our mental and physical states, and leads to fascinating (and sometimes bizarre) human behaviors. 
+
+The rapid increase of the computing power allows us to process huge amount data and perform massive searches, and to implement more intelligent models (like alphafold2 with its 21 million parameters network). 
+
+Computation offers us greater tools than ever to understand biology, and I wish to make a small contribution to that.
 
 <!---
 The famous behavior biologist Dr. Rob Sapolsky once said: 
@@ -31,10 +36,6 @@ You will have done more good for the health of humanity, than anyone since Jonas
 Answer this question, and you have just solved half the cases of diabetes in this country.
 -->
 
-Decoding and documenting the *Human User Manual* is a hard and intriguing question.
-The rapid increase of the computing power allows us to process massive data and perform massive searches, and to implement more intelligent and complicated models (alphafold2's network has 21 million parameters). 
-
-The advance in computational biology offers us better chance than ever to tackle the challenging problems in biology, and I wish to make a small contribution to that.
 
 Computational Protein Design & Engineering
 ------
