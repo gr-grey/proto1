@@ -24,13 +24,19 @@ Skills
 Education
 ======
 ### Ph.D., University of Pennsylvania, *May 2023* (expected) 
-* GPA: 3.90/4.0; Physical Chemistry  - Advisor: **Dr. Jeffery Saven** 
+* Physical Chemistry - Advisor: **Dr. Jeffery Saven**; - GPA: 3.90/4.0 
 * Thesis: Computational engineering of protein features: charge variation, host-guest assembly, and structural motif.
 
 ### B.S., University of Science and Technology of China, *2016* 
-* GPA: 3.63/4.3; Chemistry - Advisor: **Dr. Tongwen Xu** 
+* Chemistry - Advisor: **Dr. Tongwen Xu**; GPA: 3.63/4.3 
     * Awarded Outstanding Student Scholarship for 4 years 
 	    * Grade 1 (top 3%) in 2015; Grade 2 (top 10%) in 2013 & 2014; Grade 3 (top 25%) in 2012
+  
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Research Experience
 ======
@@ -53,12 +59,6 @@ Applying a statistical model to solve the protein design problem, i.e., calculat
  
 ### **2014 - 2016: Undergraduate Researcher**, University of Science and Technology of China
 - Synthesized 3 microporous anion exchange membranes (crucial component of fuel cells) with exceptional high hydroxide conductivity and chemical stability. At the time of publication, one of the membranes demonstrated the highest conductivity at 80 °C reported in the field.
-  
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Leadership, Teaching and Outreach
 ======
