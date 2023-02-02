@@ -62,3 +62,26 @@ Applying a statistical model to solve the protein design problem, i.e., calculat
   
 Leadership, Teaching and Outreach
 ======
+
+### **Computational Lab Manager**, Saven Lab - **2018 - 2023**
+
+- Mentored 4 graduate students in the knowledge and tools required for our research, including protein design principles & algorithms; the group developed C++ code base; protein visualization & MD simulation software.
+- Administrator of the group’s Red Hat Linux based high-performance computing clusters and RAID arrays.
+
+### **XSEDE Supercomputer Resource Proposal Manager**, Saven Lab - **2019 – 2023**
+
+- Organizer and main contributor to the group’s annual proposal for the Extreme Science and Engineering Discovery Environment (XSEDE) supercomputing resource allocation. 
+- Proposal requests were 90% granted in 2022, 100% granted in 2021 and 2020, averaging ~70K CPU & 600K GPU node hrs each year.
+
+### **Graduate Teaching Assistant**, UPenn - **Fall 2016 – Spring 2017 & Fall 2019 – Spring 2020** 
+
+- Rewarded “Commendation for Excellence in Teaching” in 2017 (8 awarded out of 32 TA candidates).
+- Teaching courses include General Chemistry I, General Chemistry Lab I & II.
+
+### **Philadelphia Area Girls Enjoying Science (PAGES) Outreach** - **Nov 2019**
+
+- Contributed to the lecture design and instructed 60+ sixth-grade girls in the outreach, offering them hands-on experiences with science and fostering awareness of scientific career opportunities for women. 
+
+### **Vice Chairman of the Chemistry Student Group**, School of Chemistry & Material Science, USTC - **2014 – 2015**
+
+- Leader of the group’s technical department, in charge of making posters (~20 posters/year), editing video/audio contents and managing social media accounts for the group’s publicity purposes.
