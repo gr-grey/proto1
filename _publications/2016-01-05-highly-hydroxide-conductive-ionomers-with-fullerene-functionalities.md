@@ -10,4 +10,4 @@ citation: 'Yang, Z.; Liu, Y.; <b>Guo, R.</b>; Hou, J.; Wu, L.; Xu, T., <i>Chem. 
 ---
 Upcoming brief description of the paper.
 
-[Full Paper](http://academicpages.github.io/files/paper1.pdf)
+[Full Paper]({{ page.paperurl }})
