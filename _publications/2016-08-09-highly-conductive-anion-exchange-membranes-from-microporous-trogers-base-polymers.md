@@ -5,7 +5,7 @@ permalink: /publication/2016-08-09-highly-conductive-anion-exchange-membranes-fr
 excerpt: 'placeholder for description'
 date: 2016-08-09
 venue: 'Angew. Chem. Int. Ed.'
-paperurl: 'http://gr-grey.github.io/files/highly-conductive-anion-exchange-membranes-from-microporous-trogers-base-polymers.pdb'
+paperurl: 'http://gr-grey.github.io/files/highly-conductive-anion-exchange-membranes-from-microporous-trogers-base-polymers.pdf'
 citation: '*Yang, Z.; <b>*Guo, R.</b>; Malpass-Evans, R.; Carta, M.; McKeown, N. B.; Guiver, M. D.; Wu, L.; Xu, T., <i>Angew. Chem. Int. Ed.,</i> 2016, 55, 11499 –11502 [*co-first authors]'
 ---
 Upcoming brief description of the paper.
