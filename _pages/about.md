@@ -14,6 +14,7 @@ Now here's a peice of great advice from the Sunscreen Song:
 "Enjoy your body. It's the greatest instrument you'll even own." <br>
 &nbsp;&nbsp;&nbsp;&nbsp; ---<cite>Sunscreen Song by Mary Schmich</cite>
 
+And here are some topics I take great interests in.
 
 Harness Computing Power to Help Understand Biology
 ======
