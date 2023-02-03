@@ -42,7 +42,7 @@ and **Programing** (an activity I enjoy a ton).
 -->
 
 
-Computational Protein Desgin/Engineering
+Computational Protein Design/Engineering
 ------
 
 - My graduate research focuses on solving the protein design problem - the reverse problem of the protein folding problem (the one Google's AlphaFold2 AI solves).
