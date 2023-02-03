@@ -42,7 +42,7 @@ Computational Protein Design, Genomics and Programing
 - **Genomics and Next Generation Sequencing**
     - The DNA - our source code, contains fascinating information about our biology. For example, a single mutation will decide whether your face flushes after consuming alcohol (guess which genotype I am). There are genes associated with depression, aggression, pro-/anti-social behaviors and cognitions.
     - The human body is the most intricate machine we will ever own, yet we still haven't figured out the user manual on how to operate it porperly.
-    - I believe the exponentially growth of sequening rate (and decreasing of cost) has made genomics research one of the most powerful tools to study biology, and I hope to explore the landscape of bioinformatics and genomics as I carry on the journey of computational biology. 
+    - I believe the exponential growth of sequening rate (and decreasing of cost) has made genomics research one of the most powerful tools to study biology, and I hope to explore the landscape of bioinformatics and genomics as I carry on the journey of computational biology. 
 
 - **Programming**
     - Coding is an activity I enjoy, both the puzzle solving (math) aspect and the joy of building something. Besides, who doesn't love to argue over which language/IDE/framework is the best, and face the challenge of some obsure and poorly documented tools/software that require act of gods to compile? :)
