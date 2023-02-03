@@ -44,10 +44,10 @@ layout: default
         
              
         {% if page.citation and page.paperurl %}
-          <p>Cite: {{ page.citation }} </p>
+          <p>{{ page.citation }}</p>
           <!-- <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p> -->
         {% elsif page.citation %}
-          <p>Cite: {{ page.citation }} </p>
+          <p>{{ page.citation }}</p>
         {% endif %}
     
         </header>
