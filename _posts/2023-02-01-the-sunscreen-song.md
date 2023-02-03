@@ -6,9 +6,10 @@ tags:
   - life
 ---
 
+"Wear Sunscreen" was an essay written by Mary Schmich, published on Chicago Tribune in June 1997,
+in which the Pulitzer winning wise lady offered great advice that I personally benefitted from.
 
-
-"Wear Sunscreen" was an essay written by Mary Schmich, published on Chicago Tribune in June 1997.
+I hope you enjoy it too.
 
 Source: [Wear Sunscreen – Chicago Tribune](https://www.chicagotribune.com/columns/chi-schmich-sunscreen-column-column.html)
 
