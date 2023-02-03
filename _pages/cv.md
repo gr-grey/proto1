@@ -9,6 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+Education
+======
+### Ph.D., University of Pennsylvania, *May 2023* (expected) 
+* Physical Chemistry - Advisor: **Dr. Jeffery Saven**; - GPA: 3.90/4.0 
+* Thesis: Computational engineering of protein features: charge variation, host-guest assembly, and structural motif.
+
+### B.S., University of Science and Technology of China, *2016* 
+* Chemistry - Advisor: **Dr. Tongwen Xu**; GPA: 3.63/4.3 
+    * Awarded Outstanding Student Scholarship for 4 years 
+	    * Grade 1 (top 3%) in 2015; Grade 2 (top 10%) in 2013 & 2014; Grade 3 (top 25%) in 2012
+  
 Skills
 ======
 * Programming: intermediate **C++** & **python** (STL data structures, object orienting programing, python libs - numpy, pandas, matplotlib)  *\[6+years\]*
@@ -21,17 +32,6 @@ Skills
 	* Collaboration with protein experimentalists, applying theoretical models to interpret data (Mass, CD, melting temperature, PI, charge-PH relations).  *\[5+years\]*
 * Bioinformatics/Genomics Courses - Introduction to Genomics Technologies; Python for Genomic Data Science, Algorithms for DNA sequences. 
 
-Education
-======
-### Ph.D., University of Pennsylvania, *May 2023* (expected) 
-* Physical Chemistry - Advisor: **Dr. Jeffery Saven**; - GPA: 3.90/4.0 
-* Thesis: Computational engineering of protein features: charge variation, host-guest assembly, and structural motif.
-
-### B.S., University of Science and Technology of China, *2016* 
-* Chemistry - Advisor: **Dr. Tongwen Xu**; GPA: 3.63/4.3 
-    * Awarded Outstanding Student Scholarship for 4 years 
-	    * Grade 1 (top 3%) in 2015; Grade 2 (top 10%) in 2013 & 2014; Grade 3 (top 25%) in 2012
-  
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -46,7 +46,7 @@ Applying a statistical model to solve the protein design problem, i.e., calculat
 - **Computational Protein Design**: 2 projects • 18 designed proteins • 16 confirmed to fold correctly
 - **Molecular dynamics (MD) simulations**: Uncovering unstable interactions in problematic sequences
 
-Details of grad research on [Research](/research/) page.
+For details of grad research, please refer to [Research](/research/) page.
  
 ### **2014 - 2016: Undergraduate Researcher**, University of Science and Technology of China
 - Synthesized 3 microporous anion exchange membranes (crucial component of fuel cells) with exceptional high hydroxide conductivity and chemical stability. At the time of publication, one of the membranes demonstrated the highest conductivity at 80 °C reported in the field.

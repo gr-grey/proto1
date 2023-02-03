@@ -15,7 +15,8 @@ I'd like to start with a peice of advice from the Sunscreen Song:
 "Enjoy your body. It's the greatest instrument you'll even own." <br>
 &nbsp;&nbsp;&nbsp;&nbsp; ---<cite>Sunscreen Song by Mary Schmich</cite>
 
-The topics I take great interests in concern moslty of **biology** and **computing**.
+The topics I take great interests in concern moslty of **biology** and **computing**. 
+For for info about me, check out my [CV](/cv/).
 
 **Biology** Is Awesome
 ======
@@ -24,7 +25,7 @@ The human body is an intricate machine.
 
 Understanding human biology, the process I would like to think as documenting the *Human User Manual*, is a hard and intriguing problem.
 
-We have yet to fully understand the function of sleep, the cause of aging and various diseases, how the cocktail of neurochemical molecules shape our mental and physical states, and leads to fascinating (and sometimes bizarre) human behaviors. 
+We have yet to fully understand the function of sleep, the cause of aging and various diseases, how the cocktail of neurochemical molecules shape our mental and physical states, and lead to fascinating (and sometimes bizarre) human behaviors. 
 
 Where Computer Comes in
 ======
@@ -33,7 +34,7 @@ The rapid increase of the computing power allows us to process huge amount data 
 
 Computation offers us greater tools than ever to understand biology, and I wish to make a small contribution to that.
 
-I'd like to breifly talk about 3 fields here: 
+I'll breifly talk about 3 fields here: 
 **Computational Protein Design** (my grad research),
 **Genomics** (what I hope to do next)
 and **Programing** (an activity I enjoy a ton).
@@ -55,7 +56,7 @@ Genomics and Next Generation Sequencing
 
 - The DNA - our source code, contains fascinating information about our biology. For example, a single mutation will decide whether your face flushes after consuming alcohol (guess which genotype I am); another mutation can decide whether you need deorderant for your life; or if cilantro tastes like soap to you. There are genes found to be associated with depression, aggression, pro-/anti-social behaviors and cognitions.
 - The human body is the most intricate machine we will ever own, yet we still haven't figured out the user manual on how to operate it porperly.
-- I believe the exponential growth of sequening rate (and decreasing of cost) has made genomics research one of the most powerful tools to study biology, and I hope to explore the landscape of bioinformatics and genomics as I carry on the journey of computational biology. 
+- I believe the exponential growth of DNA sequening rate (and decreasing of cost) has made genomics research one of the most powerful tools to study biology, and I hope to explore the landscape of bioinformatics and genomics as I carry on the journey of computational biology. 
 
 Programming
 ------
