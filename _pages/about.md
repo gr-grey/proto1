@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A Human Curious About Biology Stuff"
+title: "A Page About Me And Some Stuff I Am Interested In :)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-That's enough about me.
-Now here's a peice of great advice from the Sunscreen Song:
+Welcome~ I'd like to start with a peice of advice from the Sunscreen Song:
 
 "Enjoy your body. It's the greatest instrument you'll even own." <br>
 &nbsp;&nbsp;&nbsp;&nbsp; ---<cite>Sunscreen Song by Mary Schmich</cite>
