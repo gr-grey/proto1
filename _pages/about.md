@@ -15,7 +15,7 @@ I'd like to start with a peice of advice from the Sunscreen Song:
 "Enjoy your body. It's the greatest instrument you'll even own." <br>
 &nbsp;&nbsp;&nbsp;&nbsp; ---<cite>Sunscreen Song by Mary Schmich</cite>
 
-The topics I take great interests in concerns moslty of **biology** and **computing**.
+The topics I take great interests in concern moslty of **biology** and **computing**.
 
 **Biology** Is Awesome
 ======
@@ -59,7 +59,7 @@ Genomics and Next Generation Sequencing
 
 Programming
 ------
-- Coding is an activity I enjoy, both the puzzle solving (math & engineering) aspect and the joy of building something. Besides, who doesn't love to have endless argument over which language/IDE/framework is the best, and wrestle with some obsure and poorly documented tools/software that require act of gods to compile? :)
+- Coding is an activity I enjoy, both the puzzle solving (math & engineering) aspect and the joy of building something. Besides, who doesn't love to have endless arguments over which language/IDE/framework is the best, and wrestle with some obsure and poorly documented tools/software that require act of gods to compile? :)
 
 
 Example of An Intriging Biology Question 
@@ -67,6 +67,6 @@ Example of An Intriging Biology Question
 I'd like to leave you with a fasciating piece of unsolved biology before you venture on to poke around the vast world wide web.
 It was brought up by the famous behavior biologist Dr. Rob Sapolsky in his lecture:
 
-> You will have done more good for the health of humanity, than anyone since Jonas Salk inventing the polio vaccine, if you get to the answer of this question: <br>
+> You will have done more good for the health of humanity, than anyone since Jonas Salk inventing the polio vaccine, if you get the answer to this question: <br>
 > **Why is it that when we feel like nobody loves us, we eat Oreo cookies?** <br>
 > Answer this question, and you have just solved half the cases of diabetes in this country.
