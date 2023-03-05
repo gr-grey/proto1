@@ -7,7 +7,7 @@ tags:
 ---
 
 "Wear Sunscreen" was an essay written by Mary Schmich, published on Chicago Tribune in June 1997,
-in which the Pulitzer winning wise lady offered great advice that I personally benefitted from.
+in which the Pulitzer winning wise lady offered advice that I have benefitted greatly from.
 
 I hope you enjoy it too.
 
