@@ -9,8 +9,7 @@ tags:
   - NGS
 ---
 
-Here's a summary of genomic-related topics. 
-A lot of content comes from the [Introduction to Genomics](https://www.coursera.org/learn/introduction-genomics) course from JHU, and [Applied Computational Genomics](https://github.com/quinlan-lab/applied-computational-genomics) course from Dr. Aaron Quinlan at U of Utah, with a splash of my understandings of these topics.
+A summary of genomic-related topics, containing notes I took from the [Introduction to Genomics](https://www.coursera.org/learn/introduction-genomics) course from JHU, and [Applied Computational Genomics](https://github.com/quinlan-lab/applied-computational-genomics) course from Dr. Aaron Quinlan at U of Utah, with a splash of my understandings on these topics.
 
 # Table of Content
 ------
