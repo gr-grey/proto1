@@ -2,7 +2,7 @@
 title: 'Introduction to Genomics'
 collection: courses
 date: 2023-03-06
-permalink: /courses/2023/02/introduction-to-genomics/
+permalink: /courses/2023/03/introduction-to-genomics/
 tags:
   - courses
   - genomics
