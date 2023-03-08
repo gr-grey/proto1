@@ -13,7 +13,7 @@ Placeholder for my understandings
 
 Some courses I took.
 
-## [Introduction to Genomics](/courses/2023/02/introduction-to-genomics/)
+## [Introduction to Genomics](/courses/2023/03/introduction-to-genomics/)
 
 * A summary of genomic-related topics, containing notes  I took from the [Introduction to Genomics](https://www.coursera.org/learn/introduction-genomics) course from JHU, and [Applied Computational Genomics](https://github.com/quinlan-lab/applied-computational-genomics) course from Dr. Aaron Quinlan at U of Utah, with a splash of my understandings on these topics.
 
