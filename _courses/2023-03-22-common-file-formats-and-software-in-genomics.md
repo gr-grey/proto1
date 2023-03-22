@@ -62,20 +62,20 @@ Header section:
 
 Alignments section - 11 mandatory fields/columns.
 
-|Col|Field|Description|Example|
-|---|----|------|---|
-|1|QNAME|Query template name|GAII05_0002:1:113:7822:3886#0|
-|2|FLAG|bitwise FLAG score|4|
-|3|RNAME|Ref seq name|chr1| 
-|4|POS|1-based start cor| 11699950|
-|5|MAPQ|Mapping quality|60|
-|6|CIGAR|CIGAR string|39M1D12M|
-|7|RNEXT|Ref name of mate/next read|chr1|
-|8|PNEXT|Pos of mate/next read| 11700332|
-|9|TLEN|(Paired) insert size|433|
-|10|SEQ|read seq|AATGTAAAAC...|
-|11|QUAL|Phred33 quality of seq|HHHAAB^^%CCC...|
-|12|OPT|Optional tags|XA:i:2, MD:Z:0T34G15|
+| Col | Field | Description                | Example                       |
+| --- | ----- | -------------------------- | ----------------------------- |
+| 1   | QNAME | Query template name        | GAII05_0002:1:113:7822:3886#0 |
+| 2   | FLAG  | bitwise FLAG score         | 4                             |
+| 3   | RNAME | Ref seq name               | chr1                          |
+| 4   | POS   | 1-based start cor          | 11699950                      |
+| 5   | MAPQ  | Mapping quality            | 60                            |
+| 6   | CIGAR | CIGAR string               | 39M1D12M                      |
+| 7   | RNEXT | Ref name of mate/next read | chr1                          |
+| 8   | PNEXT | Pos of mate/next read      | 11700332                      |
+| 9   | TLEN  | (Paired) insert size       | 433                           |
+| 10  | SEQ   | read seq                   | AATGTAAAAC...                 |
+| 11  | QUAL  | Phred33 quality of seq     | HHHAAB^^%CCC...               |
+| 12  | OPT   | Optional tags              | XA:i:2, MD:Z:0T34G15          |
 
 ### FLAG score (column 2)
   - FLAG score can be confusing, it's an integer number storing dense information about the read.
@@ -83,18 +83,19 @@ Alignments section - 11 mandatory fields/columns.
   - A nice explanation of the FLAG score by Dr. Quinlan can be found [here](https://youtu.be/XU8atPxM0VQ?t=3096).
   - For example, if a read from a single end sequencing is unmapped, and passes quality check and not a PCR duplicate, basically if it answers no (with a 0) to all but one question in the table - question 3 "is the read itself unmapped", which means it has a 1 (yes) at third position of the binary number, then all 0 for other positions - a number of '00000000100', which translate to a FLAG score of 4 in decimal system.
 
-|base2|base10|Question|Pair end seq only|
-|00000000001|1| Read comes from paired sequencing | N|
-|00000000010|2| Read mapped in a proper pair | Y|
-|00000000100|4| Read itself is unmapped | N|
-|00000001000|8| Read's mate is unmapped | Y|
-|00000010000|16| Strand (0 forward, 1 reverse) | N|
-|00000100000|32| Strand of mate | Y|
-|00001000000|64| This is the first read in the pair | Y|
-|00010000000|128| This is the second read in the pair | Y|
-|00100000000|256| The alignment is not primary | N|
-|01000000000|512| Read fails platform/vendor quality checks| N|
-|10000000000|1024| Read is a PCR/optical duplicate | N|
+| base2       | base10 | Question                                  | Pair end seq only |
+| ----------- | ------ | ----------------------------------------- | ----------------- |
+| 00000000001 | 1      | Read comes from paired sequencing         | N                 |
+| 00000000010 | 2      | Read mapped in a proper pair              | Y                 |
+| 00000000100 | 4      | Read itself is unmapped                   | N                 |
+| 00000001000 | 8      | Read's mate is unmapped                   | Y                 |
+| 00000010000 | 16     | Strand (0 forward, 1 reverse)             | N                 |
+| 00000100000 | 32     | Strand of mate                            | Y                 |
+| 00001000000 | 64     | This is the first read in the pair        | Y                 |
+| 00010000000 | 128    | This is the second read in the pair       | Y                 |
+| 00100000000 | 256    | The alignment is not primary              | N                 |
+| 01000000000 | 512    | Read fails platform/vendor quality checks | N                 |
+| 10000000000 | 1024   | Read is a PCR/optical duplicate           | N                 |
 
 Table adapted from Dr. Quilan's [slide](https://docs.google.com/presentation/d/1_iT3btOZqjPmVb8Ryk5ssMBCMxoQ0MVmasZ6G0luA-c/edit#slide=id.g1bbc187894_79_0).
 
@@ -272,41 +273,40 @@ GTCTCCGGGGGCTGGGGGAACCAGGGGTTCCCACCAACCACCCTCACTCAGCCTTTTCCCTCCAGGCATCTCTGGGAAAG
 
 ## <a name="seg6"></a>Format Summary
 
-|Format|Usage|0/1 based| Column Names (in bioawk) | Metadata | Software|
-|------|-----|---------|--------------------------|--------|---------|
-|BED|interval arithmetic|0|  1:chrom 2:start 3:end 4:name 5:score 6:strand 7:thickstart 8:thickend 9:rgb 10:blockcount 11:blocksizes 12:blockstarts | . | bedtools|
-|SAM/BAM|alignment| SAM:1 BAM:0 | 1:qname 2:flag 3:rname 4:pos 5:mapq 6:cigar 7:rnext 8:pnext 9:tlen 10:seq 11:qual | HD, SQ, RG, PG | samtools, BWA-mem, Novoalign, bowtie2, Tophat, STAR, GSNAP, IGV|
-|VCF/BCF|variant call|VCF:1 BCF:0| 1:chrom 2:pos 3:id 4:ref 5:alt 6:qual 7:filter 8:info | fileformat, INFO, FILTER, ALT, config | bcftools, vcftools|
-|GFF3/GFF/GTF|genetic feature|1| 1:seqname 2:source 3:feature 4:start 5:end 6:score 7:filter 8:strand 9:group 10:attribute | version | .|
-|FastA/Q|seq reads|.|1:name 2:seq 3:qual 4:comment | . | fastp|
+| Format       | Usage               | 0/1 based   | Column Names (in bioawk)                                                                                               | Metadata                              | Software                                                        |
+| ------------ | ------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | --------------------------------------------------------------- |
+| BED          | interval arithmetic | 0           | 1:chrom 2:start 3:end 4:name 5:score 6:strand 7:thickstart 8:thickend 9:rgb 10:blockcount 11:blocksizes 12:blockstarts | .                                     | bedtools                                                        |
+| SAM/BAM      | alignment           | SAM:1 BAM:0 | 1:qname 2:flag 3:rname 4:pos 5:mapq 6:cigar 7:rnext 8:pnext 9:tlen 10:seq 11:qual                                      | HD, SQ, RG, PG                        | samtools, BWA-mem, Novoalign, bowtie2, Tophat, STAR, GSNAP, IGV |
+| VCF/BCF      | variant call        | VCF:1 BCF:0 | 1:chrom 2:pos 3:id 4:ref 5:alt 6:qual 7:filter 8:info                                                                  | fileformat, INFO, FILTER, ALT, config | bcftools, vcftools                                              |
+| GFF3/GFF/GTF | genetic feature     | 1           | 1:seqname 2:source 3:feature 4:start 5:end 6:score 7:filter 8:strand 9:group 10:attribute                              | version                               | .                                                               |
+| FastA/Q      | seq reads           | .           | 1:name 2:seq 3:qual 4:comment                                                                                          | .                                     | fastp                                                           |
 
 ## <a name="seg7"></a>0 and 1 index systems
 
 0-based
   - python style, start from 0 with an OPEN end (up to but NOT include the end point). 
-  - E.g. the first 5 characters in a string have indices 0, 1, 2, 3, 4; the segment is represented as [start:end) - [0:5) 
+  - E.g. the first 5 characters in a string have indices 0, 1, 2, 3, 4; the segment is represented as \[start:end) - \[0:5) 
   - number of elements = end - start
   - BAM, BCF, BED, and PSL formats are 0-based.
 1-based
   - closer to the natural way of counting things, start from 1 with a CLOSED end (include the end point).
-  - E.g. the first 5 characters in a string have indices 1, 2, 3, 4, 5; the segment is represented as [start:end] - [1:5] 
+  - E.g. the first 5 characters in a string have indices 1, 2, 3, 4, 5; the segment is represented as \[start:end\] - \[1:5\] 
   - number of elements = end - start + 1
   - SAM, VCF, GTF, GFF and Wiggle formats are 1-based.
 
 ## <a name="seg8"></a>Common pitfalls
 
 Beware of common pitfalls when handling all these formats. These points are brought up by Dr. Aaron Quilan in his course of [Applied Computational Genomics](https://www.youtube.com/watch?v=tq3GeDXbZXA&t=2079s).
-
-	- inconsistent chromosome labels (chr1 v Chr1 v CHR1)
-	- different sorting criteria (alphabetic v numerical)
-	- mixed UNIX/Windows newlines
-	- file violate spec with vigor
-	- program expects exact extension
-	- file is gzipp'ed not bgzipp'ed
-	- annotations us diff. genome builds
-	- tool only works for one format
-	- tools is hard-coded for specific build
-	- tool requires act of gods to compile
+- inconsistent chromosome labels (chr1 v Chr1 v CHR1)
+- different sorting criteria (alphabetic v numerical)
+- mixed UNIX/Windows newlines
+- file violate spec with vigor
+- program expects exact extension
+- file is gzipp'ed not bgzipp'ed
+- annotations us diff. genome builds
+- tool only works for one format
+- tools is hard-coded for specific build
+- tool requires act of gods to compile
 
 In summary, it's complicated. 
 So be careful and cautious, and make sure to understand the columns, parameters, and values being presented/calculated.
