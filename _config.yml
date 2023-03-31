@@ -193,6 +193,9 @@ collections:
   courses:
     output: true
     permalink: /:collection/:path/
+  hidden:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
