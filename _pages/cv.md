@@ -32,9 +32,13 @@ Skills
 	* Collaboration with protein experimentalists, applying theoretical models to interpret data (Mass, CD, melting temperature, PI, charge-PH relations).  *\[5+years\]*
 * Bioinformatics/Genomics Courses - Introduction to Genomics Technologies; Python for Genomic Data Science, Algorithms for DNA sequences. 
 
-Publications
+Publications & Presentations
 ======
   <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
