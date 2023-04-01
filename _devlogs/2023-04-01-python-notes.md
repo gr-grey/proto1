@@ -2,7 +2,7 @@
 title: "Python Notes"
 collection: devlogs
 date: 2023-04-01
-permalink: /dev-logs/2023/04/python-notes
+permalink: /dev-logs/2023/04/python-notes/
 tags:
   - devlogs
   - python

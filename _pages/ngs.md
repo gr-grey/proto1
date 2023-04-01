@@ -32,7 +32,7 @@ The course material came out in 2014 and some of the software it uses are obsele
 ## Python for Genomics Data Science
 
 * The course gives a brief introduction to python, and some broad advice of coding styles.
-* I keep a [python note]() for quick look ups.
+* I keep a [python note](/dev-logs/2023/04/python-notes/) for quick look ups.
 
 ## Algorithms for DNA Sequencing
 
