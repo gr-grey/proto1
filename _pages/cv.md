@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-### Ph.D., University of Pennsylvania, *May 2023* (expected) 
+### Ph.D., University of Pennsylvania, *Jun 2023* (expected) 
 * Physical Chemistry - Advisor: **Dr. Jeffery Saven**; - GPA: 3.90/4.0 
 * Thesis: Computational engineering of protein features: charge variation, host-guest assembly, and structural motif.
 
