@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-As I want to shift my focus towards genomic and bioinformatic related research.
-I took courses on [Genomic Data Science Sepcialization](https://www.coursera.org/specializations/genomic-data-science) offered by Johns Hopkins University on Coursera.
+As I want to shift my focus towards genomic and bioinformatics related research.
+I took [Genomic Data Science Sepcialization](https://www.coursera.org/specializations/genomic-data-science) courses offered by Johns Hopkins University on Coursera.
 
 Courses include **Introduction to Genomics Technologies**, **Command Line Tools for Genomics**, **Python for Genomics** and **Algorithms for DNA Sequencing**.
 Certificates are listed at the [end of the page](#certificates).
