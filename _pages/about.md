@@ -36,7 +36,7 @@ Computation offers us greater tools than ever to understand biology, and I wish 
 
 I'll breifly talk about 3 fields here: 
 **Computational Protein Design** (my grad research),
-**Genomics** (what I hope to do next)
+**Genomics** (what I am curious to explore)
 and **Programing** (an activity I enjoy a ton).
 
 <!---
