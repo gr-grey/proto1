@@ -60,7 +60,7 @@ I did not bring water with me, as I know I'd pass a water fountain on the trail 
     - The water from the fountain at 23mi tasted incredible.
     - After more than 5 hours of running, I finally got home, and celebrated with a small hot meal, some coffee and a no-fun-keto snack bar. Then I put on warm clothes and fuzzy socks, sat down and wrote this thing as my futile effort to capture life's good but rare moments like this.
 
-Recently I've been feeling a ton of stress as I try to wrap up my PhD and graduate, but it's moments like these that made me think: "Life's good, and I'd be an idiot for not enjoying the heck of it."
+Recently I've been feeling a ton of stress as I try to wrap up my PhD and graduate, but it's moments like these that made me think: "Life's good, and I'd be an idiot for not enjoying the heck out of it."
 
 Special thanks to the friend who kept me accompanied for 6 miles, my roommate for the banana, and friends I had beer with the night before. I love you all.  ♥
 
