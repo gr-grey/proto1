@@ -31,7 +31,7 @@ I did not bring water with me, as I know I'd pass a water fountain on the trail 
 
 1. My luck with weather & booze with friend.
   - The weather was beautiful - around 41F (5C) when I started, so I didn't sweat much, and the temperature rose up to around 50F (10C) later, it was ideal for jogging.
-  - I went out with friends the night before and had a bit of beer. The booze and company were wonderful, till I woke up the 4th time for bathroom in the night and thought maybe drinking the night before marathon was not an ideal thing to do. Still, good memory there :) 
+  - I went out with friends the night before and had a bit of beer. The booze and company were wonderful, till I woke up the 4th time for bathroom in the middle of the night and thought maybe drinking the night before marathon was not an ideal thing to do. Still, good memory there :) 
 
 2. Runner's high?
   - The first 10 miles (2hrs) felt really good, I think at some point I got the "runner's high". It's still unclear what causes the runner's high - it's believed to be beta endorphins plus some other neurotransmitters.
