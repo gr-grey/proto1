@@ -23,7 +23,7 @@ This morning, I left my house at 6:30am with the following items:
 
 I ran the first 10 miles along the Schulkyll river trail by myself, and met up with a friend at around 8:30, we ran together for about 6 miles, ended up back at Penn's chemistry department building (where my office is). 
 
-I used my office as a service station (this is why I brought my Penn card, to get into the building), where I had some water, electrolyte, a banana sponsored by (stolen from) my roommate, and a energy bar. I drank, ate, used the bathroom quickly, and went back to Schulkyll to finish the last 10 miles.
+I used my office as a service station (this is why I brought my Penn card, to get into the building), where I had some water, electrolyte, a banana sponsored by (stolen from) my roommate, and an energy bar. I drank, ate, used the bathroom quickly, and went back to Schulkyll to finish the last 10 miles.
 
 I did not bring water with me, as I know I'd pass a water fountain on the trail at about 9 mile and 23 mile mark, and I get to drink at 16 mile at my office, so it worked out fine.
 
@@ -46,7 +46,7 @@ I did not bring water with me, as I know I'd pass a water fountain on the trail 
     - On one side, a lot of rewards are much more attractive in our heads, and don't feel as good once it becomes reality. 
       - It's the nature of our dopaminergic reward system - like the quote from Charles Bukowski "Love is a fog that burns away with the first daylight of reality."
     - On the other side, the fear in our head is often amplified too - the monster under the bed becomes real if the brain believes so.
-      - The thought of "I can't do it", is just a thought, and sometimes we need to think carefully of who put that thought in our heads.
+      - The thought of "I can't do it", is just a thought, and sometimes we need to think carefully of who put that thought in our head.
       - Sometimes friends and family will tell us we can't do it, from a place of love and care and protection - they don't want to see us get hurt, and sometimes we just gotta take their love and ignore their advice.
 
 4. It's supposed to hurt.
@@ -60,7 +60,7 @@ I did not bring water with me, as I know I'd pass a water fountain on the trail 
     - The water from the fountain at 23mi tasted incredible.
     - After more than 5 hours of running, I finally got home, and celebrated with a small hot meal, some coffee and a no-fun-keto snack bar. Then I put on warm clothes and fuzzy socks, sat down and wrote this thing as my futile effort to capture life's good but rare moments like this.
 
-Recently I've been feeling a ton of stress as I try to wrap up my PhD and graduate, but it's moments like these made me think: "Life's good, and I'd be an idiot for not enjoying the heck of it."
+Recently I've been feeling a ton of stress as I try to wrap up my PhD and graduate, but it's moments like these that made me think: "Life's good, and I'd be an idiot for not enjoying the heck of it."
 
 Special thanks to the friend who kept me accompanied for 6 miles, my roommate for the banana, and friends I had beer with the night before. I love you all.  ♥
 
