@@ -1,7 +1,7 @@
 ---
-title: 'Naive Exact Match Algorithm'
+title: 'Naive Exact Matching Algorithm'
 date: 2023-04-11
-permalink: /posts/2023/04/naive-exact-match-algorithm/
+permalink: /posts/2023/04/naive-exact-matching-algorithm/
 tags:
   - ngs
   - programming
