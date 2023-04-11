@@ -39,6 +39,8 @@ The course material came out in 2014 and some of the software it uses are obsele
 * The course covers the math and practical implementation of algorithms for DNA sequence alignment and assembly.
 - It was hands down the most fun I've had in the course series, algorithms from **naive exact matching** to **Boyer Moore** to **Smith-Waterman dynamic programming** are a lot fun to learn and play with. Notes of the course and projects are to come in the future.
 
+* [Naive Exact Match](/posts/2023/04/naive-exact-match-algorithm/) & [coding project](https://colab.research.google.com/github/gr-grey/genomic-courses/blob/main/naive_exact_match.ipynb).
+
 <!-- Courses include [**Introduction to Genomics Technologies**](/files/course-introduction-to-genomics-technologies.pdf), [**Command Line Tools for Genomics**](/files/course-certificate-command-line-tools-for-genomic-data-science.pdf), [**Python for Genomics**](/files/course-certificate-python-for-genomic-data-science.pdf) and [**Algorithms for DNA Sequencing**](/files/course-certificate-algorithms-for-dna-sequencing.pdf) (the links take you to certificates). -->
 
 # Certificates
