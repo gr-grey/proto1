@@ -43,6 +43,7 @@ The course material came out in 2014 and some of the software it uses are obsele
 * [Boyer-Moore matching algorithm](/posts/2023/04/boyer-moore-matching-algorithm/) & [coding project](https://colab.research.google.com/github/gr-grey/genomic-courses/blob/main/boyer_moore_matching.ipynb).
 * [Indexing the genome: index assisted matching](/posts/2023/04/index-assisted-matching/) with sorted list & hash table; subsequences vs substrings.
 * [Apprximate matching:](/posts/2023/04/approximate-matching-hamming-and-edit-distance-pigeonhole-principle) hamming and edit distance; pigeonhole principle.
+    - [Coding example](/posts/2023/04/coding-example-index-assisted-matching/): kmer, sorted list, binary search, pigeonhole principle and subsequence.
 
 <!-- Courses include [**Introduction to Genomics Technologies**](/files/course-introduction-to-genomics-technologies.pdf), [**Command Line Tools for Genomics**](/files/course-certificate-command-line-tools-for-genomic-data-science.pdf), [**Python for Genomics**](/files/course-certificate-python-for-genomic-data-science.pdf) and [**Algorithms for DNA Sequencing**](/files/course-certificate-algorithms-for-dna-sequencing.pdf) (the links take you to certificates). -->
 
