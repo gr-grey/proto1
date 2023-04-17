@@ -1,7 +1,11 @@
 ---
-title: 'Boyer-Moore Matching Algorithm'
+title: 'Boyer-Moore Matching Algorithm: The Art of Giving Up'
+excerpt: "For searches that won't yield a match, givng up faster saves us time, the same principle applies to life too :)"
 date: 2023-04-12
 permalink: /posts/2023/04/boyer-moore-matching-algorithm/
+header:
+  overlay_color: black
+  overlay_image: /banners/2023-04-17-algorithm-for-genomics-banner.png
 tags:
   - ngs
   - programming
