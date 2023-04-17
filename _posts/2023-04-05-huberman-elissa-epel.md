@@ -2,6 +2,18 @@
 title: 'Huberman Podcast Notes: Dr. Elissa Epel -  Control Stress for Healthy Eating, Metabolism & Aging'
 date: 2023-04-05
 permalink: /posts/2023/04/huberman-ellissa-epel/
+header:
+  overlay_color: black
+  overlay_image: /banners/2023-04-05-huberman-elissa-epel-banner.png
+  # image: /banners/huberman-epel.png
+# sidebar: 
+#   - title: "drop the rope"
+#     url: \#seg1
+#   - nav: 
+#       - title: "seg1"
+#         url: /
+#       - title: "seg2"
+excerpt: "Stress response can offer just what we need in a crisis, but it comes with great cost."
 tags:
   - life
   - huberman
