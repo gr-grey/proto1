@@ -138,6 +138,15 @@
       }
     }
 
+    .wrapper2 {
+      padding-left: 1em;
+      padding-right: 1em;
+      @include breakpoint($large) {
+        max-width: $large;
+      }
+      margin: 0 auto;
+    }
+
     .page__title,
     .page__meta,
     .page__lead,
@@ -162,6 +171,12 @@
 
 .page__hero-image {
   width: 100%;
+  height: auto;
+  -ms-interpolation-mode: bicubic;
+}
+
+.page__hero-image2 {
+  width: auto;
   height: auto;
   -ms-interpolation-mode: bicubic;
 }
