@@ -13,7 +13,7 @@ header:
 #       - title: "seg1"
 #         url: /
 #       - title: "seg2"
-excerpt: "Stress response can offer just what we need in a crisis, but it comes with great cost."
+excerpt: "Stress response can offer just what we need in a crisis, but it comes with a great cost."
 tags:
   - life
   - huberman
