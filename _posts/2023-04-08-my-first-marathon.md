@@ -2,6 +2,7 @@
 title: 'My First Marathon'
 date: 2023-04-08
 permalink: /posts/2023/04/my-first-marathon/
+excerpt: "Life is good, and we often forget about that."
 tags:
   - life
   - running
@@ -56,9 +57,10 @@ I did not bring water with me, as I know I'd pass a water fountain on the trail 
 
 5. The cliché is right, it's about the journey, not destination.
   - Here's what I hope to remember about the run:
-    - My roommate's banana at 16mi tasted amazing.
-    - The water from the fountain at 23mi tasted incredible.
-    - After more than 5 hours of running, I finally got home, and celebrated with a small hot meal, some coffee and a no-fun-keto snack bar. Then I put on warm clothes and fuzzy socks, sat down and wrote this thing as my futile effort to capture life's good but rare moments like this.
+        - The cherry blossom was beautiful along side Schulkyll. The pedals were flying and dancing in the wind as my friend and I ran by. It reminded me of a very old Chinese video game called "仙剑奇侠传", when the heroine dies at the end (spoilers), the cherry blossoms flew all over the screen.
+        - My roommate's banana at 16mi tasted amazing.
+        - The water from the fountain at 23mi tasted incredible.
+        - After more than 5 hours of running, I finally got home, and celebrated with a small hot meal, some coffee and a no-fun-keto snack bar. Then I put on warm clothes and fuzzy socks, sat down and wrote this thing as my futile effort to capture life's good but rare moments like this.
 
 Recently I've been feeling a ton of stress as I try to wrap up my PhD and graduate, but it's moments like these that made me think: "Life's good, and I'd be an idiot for not enjoying the heck out of it."
 
