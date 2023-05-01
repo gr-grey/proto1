@@ -27,23 +27,25 @@ Certificates are listed at the [end of the page](#certificates).
     - [Project 2](/courses/2023/03/common-file-formats-and-software-in-genomics/#seg10): Process SAM/BAM/BED/GTF files
     - [Project 3](/courses/2023/03/common-file-formats-and-software-in-genomics/#seg11): Align FastQ reads with bowtie2 and variant calling with bfctools
 
-The course material came out in 2014 and some of the software it uses are obselete now - it made me realize how fast things are moving in computational genomics, where the ability to learn and keep up with new algorithms and tools are crucial.
+The course material came out in 2014 and some of the software it uses are obsolete now - it made me realize how fast things are moving in computational genomics, where the ability to learn and keep up with new algorithms and tools are crucial.
 
 ## Python for Genomics Data Science
 
 * The course gives a brief introduction to python, and some broad advice of coding styles.
 * I keep a [python note](/dev-logs/2023/04/python-notes/) for quick look ups.
 
-## Algorithms for DNA Sequencing
+<a name="algorithm"></a>
+## Algorithms for DNA Sequencing 
 
-* The course covers the math and practical implementation of algorithms for DNA sequence alignment and assembly.
-- It was hands down the most fun I've had in the course series, algorithms from **naive exact matching** to **Boyer Moore** to **Smith-Waterman dynamic programming** are a lot fun to learn and play with. Notes of the course and projects are to come in the future.
+* The course covers the math and practical implementation of algorithms for DNA sequence alignment and assembly. It was hands down the most fun I've had in the course series.
 
-* [Naive exact matching algorithm](/posts/2023/04/naive-exact-matching-algorithm/) & [coding project](https://colab.research.google.com/github/gr-grey/genomic-courses/blob/main/naive_exact_match.ipynb).
-* [Boyer-Moore matching algorithm](/posts/2023/04/boyer-moore-matching-algorithm/) & [coding project](https://colab.research.google.com/github/gr-grey/genomic-courses/blob/main/boyer_moore_matching.ipynb).
+* [Naive exact matching algorithm](/posts/2023/04/naive-exact-matching-algorithm/) & [coding project](https://colab.research.google.com/github/gr-grey/genomic-courses/blob/main/naive_exact_match.ipynb): simple and straight forward.
+* [Boyer-Moore matching algorithm](/posts/2023/04/boyer-moore-matching-algorithm/) & [coding project](https://colab.research.google.com/github/gr-grey/genomic-courses/blob/main/boyer_moore_matching.ipynb): the art of giving up.
 * [Indexing the genome: index assisted matching](/posts/2023/04/index-assisted-matching/) with sorted list & hash table; subsequences vs substrings.
-* [Apprximate matching:](/posts/2023/04/approximate-matching-hamming-and-edit-distance-pigeonhole-principle) hamming and edit distance; pigeonhole principle.
+* [Approximate matching:](/posts/2023/04/approximate-matching-hamming-and-edit-distance-pigeonhole-principle) hamming and edit distance; pigeonhole principle.
     - [Coding example](/posts/2023/04/coding-example-index-assisted-matching/): kmer, sorted list, binary search, pigeonhole principle and subsequence.
+* [Edit distance: recursive algorithm](/posts/2023/04/edit-distance-calculation/): calculate edit distance by reducing the problem to smaller sub-problems of edit distance, and calculate recursively.
+* [Smith-Waterman dynamic programming](/posts/2023/04/dynamics-programming-for-edit-distance/): remembering the answer of the smaller sub-problems to massively reduce repetitive calculations.
 
 <!-- Courses include [**Introduction to Genomics Technologies**](/files/course-introduction-to-genomics-technologies.pdf), [**Command Line Tools for Genomics**](/files/course-certificate-command-line-tools-for-genomic-data-science.pdf), [**Python for Genomics**](/files/course-certificate-python-for-genomic-data-science.pdf) and [**Algorithms for DNA Sequencing**](/files/course-certificate-algorithms-for-dna-sequencing.pdf) (the links take you to certificates). -->
 
