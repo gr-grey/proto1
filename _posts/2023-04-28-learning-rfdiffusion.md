@@ -43,7 +43,7 @@ and they offer a [Google Colab](https://colab.research.google.com/github/sokrypt
 
 ## Simple prompt: designing a protein with 30 residues
 
-My customized Colab file (based on the Colab file in RFdiffusion github page) can be found [here]().
+My customized Colab file (based on the Colab file in RFdiffusion github page) can be found [here](https://colab.research.google.com/github/gr-grey/Colab-notebooks/blob/main/diffusion_30res_free_example.ipynb).
 
 The design process:
 1. Let the diffusion model freely generate a protein backbone of 30 amino acids (i.e., only provide the residue number as prompt).
