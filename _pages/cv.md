@@ -22,7 +22,7 @@ Education
   
 Skills
 ======
-* Programming: intermediate **C++** & **python** (STL data structures, object orienting programing, python libs - numpy, pandas, matplotlib)  *\[6+years\]*
+* Programming: intermediate **C++** & **python** (STL data structures, object orienting programming, python libs - numpy, pandas, matplotlib)  *\[6+years\]*
 * Developer tools: **Linux Command Line**, **Git**, **high-performance cluster** maintenance  *\[6+years\]*
 * Computational Protein Design/Engineering 
 	* Extensive knowledge in protein design (sequence prediction) problem.  *\[6+years\]*
@@ -30,7 +30,11 @@ Skills
 	* Using Molecular Dynamics Simulations (NAMD) to investigate protein interactions.  *\[6+years\]*
 	* Protein visualization and animation with VMD & Pymol (render materials, lighting, electrostatic surfaces, RMSD & heatmap analysis, movie making).  *\[6+years\]*
 	* Collaboration with protein experimentalists, applying theoretical models to interpret data (Mass, CD, melting temperature, PI, charge-PH relations).  *\[5+years\]*
-* Bioinformatics/Genomics Courses - Introduction to Genomics Technologies; Python for Genomic Data Science, Algorithms for DNA sequences. 
+* Bioinformatics/Genomics 
+  * Genomics concepts: [blogs](https://gr-grey.github.io/courses/2023/03/introduction-to-genomics/) on NGS techniques & applications; genetics – exon, intron, splicing; epigenetics- transcription factors, promoters, histone packing, transposons; GWAS, DNM; cell biology; etc.
+  * Algorithms for DNA sequences: [blogs and coding projects](https://gr-grey.github.io/ngs/#algorithm) of naïve exact match, Boyer-Moore, index assisted matching, edit distance and Smith-Waterman dynamic programming algorithms.
+  * Common software & data processing: [blogs and coding projects](https://gr-grey.github.io/courses/2023/03/common-file-formats-and-software-in-genomics/) regarding SAM/BAM, BED, GFF/GTF, VCF/BCF, FastA/Q files; alignment and variant callings with samtools, bfctools, bedtools.
+
 
 Publications & Presentations
 ======
