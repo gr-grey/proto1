@@ -27,7 +27,7 @@ Slides from [MIT 6.S191: introduction to deep learning](http://introtodeeplearni
 The the model is trained to "generate" an image with a lot more information and recover (imagine) details from an initial noisy state with few information/ mostly noise.
 
 In the image prompt example, DALL-E2 first converts the text into a sequence of tokens using a language model; then uses the tokens to generate an initial image based on the text input. 
-This initial image is then fed to the diffusion model to, where it gets gradually refined and improved, yielding a high-quality images that matches the input text.
+This initial image is then fed to the diffusion model, where it gets gradually refined and improved, yielding a high-quality images that matches the input text.
 
 ## RFdiffusion: diffusion model to generate protein backbones
 
@@ -83,7 +83,7 @@ process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.PI
 It's the equivalent of running `./RFdiffusion/run_inference.py inference.output_prefix=outputs/test inference.num_designs=1 'contigmap.contigs=[30-30]'` in a terminal.
 
 This is very similar to the simplest example on the RFdiffusion [README page](https://github.com/RosettaCommons/RFdiffusion) of `./scripts/run_inference.py 'contigmap.contigs=[150-150]' inference.output_prefix=test_outputs/test inference.num_designs=10`. 
-The readme example here designs a 150 backbone with contigs set to 150, and generate 10 backbones by setting the num_designs to 1.
+The readme example here designs a 150 backbone with contigs set to 150, and generate 10 backbones by setting the num_designs to 10.
 
 ---------------
 
@@ -94,4 +94,5 @@ P.S. (non-important random thoughts)
 I am at awe of how powerful the diffusion model can be in generating/recovering details from a few prompts/settings.
 
 It amazes me to think about the analogy that in a sense, human creations are also a de-noising process, to generate something from what seems to be random noise; that information emerges when the system entropy is reduced.
-It reminds me of David Froster Wallace saying that there is a "mystical oneness of all things deep down", in his commencement speech "this is water".
+
+It reminds me of what David Froster Wallace said in his commencement speech "this is water", that there is a "mystical oneness of all things deep down".
