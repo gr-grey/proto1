@@ -77,8 +77,8 @@ pip install -e . # install the rfdiffusion module from the root of the repositor
 #SBATCH -n 4
 #SBATCH -t 02:00:00
 
-#SBATCH -A TG-CHE110041
-#SBATCH --mail-user=grui@sas.upenn.edu
+#SBATCH -A Allocation
+#SBATCH --mail-user=email
 #SBATCH --mail-type=all
 
 cd $SLURM_SUBMIT_DIR
