@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume/CV - Rui Guo (grui@sas.upenn.edu) <a href=\"https://gr-grey.github.io/files/RuiGuo-resume-2023.pdf\">pdf</a>"
+title: "Resume/CV - Rui Guo (grui@sas.upenn.edu) <a href=\"https://gr-grey.github.io/files/RuiGuo-resume-2023-may.pdf\">pdf</a>"
 permalink: /cv/
 author_profile: true
 redirect_from:
