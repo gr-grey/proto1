@@ -42,9 +42,9 @@ Some points brought up by Dr. Epel:
 
  Dr. Chris Palmer brought up an interesting point on [another episode of the Huberman podcast](https://www.youtube.com/watch?v=xjEFo3a1AnI), that mitochondria could be more important in regulating the cells than we previously thought, and might be a crucial component in aging.
 
-Some researcher suggested that, although mitochondria are mostly known for their role in energy production, they might actually function more similarly to a "motherboard" in a computer. 
-Acting as a central hub that coordinates and regulates various cellular processes. 
-Mitochondria have been found to be involved in a wide range of cellular functions beyond energy production, including regulating cell death, controlling calcium signaling, and modulating gene expression.
+Apart from their their role in energy production, mitochondria have been found to be involved in a wide range of cellular functions including regulating cell death, controlling calcium signaling, and modulating gene expression.
+
+Research suggested they might function more similarly to a "motherboard" in a computer, acting as a central hub that coordinates and regulates various cellular processes. 
 
 ## Radical acceptance: drop the rope.
 
