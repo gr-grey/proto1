@@ -104,7 +104,7 @@ Those 3 cases correspond to the box to the upper left of the blue box (the red b
 
 ![matrix3](/images/posts/2023-04-25-dynamic-programming-edit-distance-matrix3.jpg)
 
-So to fill up the entire matrix and get to the answer at the lower right corner, we start by filling out the first row and first column, where the anwer of the edit distance of any prefix to an empty string is obvious (it's the length of the prefix).
+So to fill up the entire matrix and get to the answer at the lower right corner, we start by filling out the first row and first column, where the answer of the edit distance of any prefix to an empty string is obvious (it's the length of the prefix).
 Then the second row can be filled one by one, since we only need the 3 boxes (upper left, left, above) to get to each box.
 
 ![matrix4](/images/posts/2023-04-25-dynamic-programming-edit-distance-matrix4.jpg)

@@ -5,7 +5,7 @@ excerpt: "Learning notes of the RFdiffusion software developed by the Baker grou
 permalink: /posts/2023/04/learning-rfdiffusion/
 tags:
   - protein design
-  - Baker
+  - Baker Lab
   - ML
   - diffusion model
   - python
