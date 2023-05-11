@@ -1,5 +1,5 @@
 ---
-title: "How to buy used a car"
+title: "How to buy a used car"
 collection: devlogs
 date: 2023-05-11
 permalink: /dev-logs/2023/05/buying-a-used-car/
