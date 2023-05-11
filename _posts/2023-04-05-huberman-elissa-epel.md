@@ -111,8 +111,8 @@ I think the lack of motion, the "I'll rest and just lay around doing nothing" st
 
 I think relaxation is something the prefrontal cortex never truly wants, maybe for a while, but a full blown retirement means death.
 
-In a recent Lex Fridman Podcast episode with [Shannon Curry](https://www.youtube.com/watch?v=qtOKrG_wK5A) Shannon Curry, she mentioned, in happy relationships, couple have "good : bad" events at about 5 : 1 ratio. 
-I wonder what's the idea balance to strike there, how much should the brain relax vs in the go mode.
+In a recent Lex Fridman Podcast episode with [Shannon Curry](https://www.youtube.com/watch?v=qtOKrG_wK5A), she mentioned that in happy relationships, couple have "good : bad" events at about 5 : 1 ratio. 
+I wonder what's the ideal balance to strike there, how much should the brain relax vs in the go mode.
 
 We love things that are predictable, we are that mush happier and relaxed when we know exactly what would happen in the future, but there's a trouble maker itching in the background, part of us loves to be surprised, to see chaos, for that dash magic of randomness.
 

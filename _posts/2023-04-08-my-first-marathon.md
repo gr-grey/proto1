@@ -38,7 +38,7 @@ I did not bring water with me, as I know I'd pass a water fountain on the trail 
   - The first 10 miles (2hrs) felt really good, I think at some point I got the "runner's high". It's still unclear what causes the runner's high - it's believed to be beta endorphins plus some other neurotransmitters.
   - It came as a surprise to me, cause running rarely feels THAT good. To me, running is more like coffee, I don't mind the bitterness in it, and I especially like the effect afterwards. 
   - Still it's different than the mainly dopamine induced "high" I feel with video games or social media, which often comes with a pulling force and an addictive aspect of desire - I want more.
-  - Anyway, The runner's high feels really good - my body loved it, but honestly I don't know if I'd call it "high", cause it was a pleasant yet pretty calm emotional state. 
+  - Anyway, not sure if it was runner's high. My body loved it, but honestly I don't know if I'd call it "high", cause it was a pleasant yet pretty calm emotional state. 
 
 3. A marathon is both easier and harder than I thought.
   - It was easier cause for a long time I wasn't sure if I could do it - until 4 days ago, I came up with a plan/route that seemed doable, and the run actually felt easier than the first half marathon I did on an impulse, at 11F (-11C), 9 days after I had just finished the first 6mi (10k) run in my life - but that's story for another time.
@@ -57,7 +57,7 @@ I did not bring water with me, as I know I'd pass a water fountain on the trail 
 
 5. The cliché is right, it's about the journey, not destination.
   - Here's what I hope to remember about the run:
-        - The cherry blossom was beautiful along side Schulkyll. The pedals were flying and dancing in the wind as my friend and I ran by. It reminded me of a very old Chinese video game called "仙剑奇侠传", when the heroine dies at the end (spoilers), the cherry blossoms flew all over the screen.
+        - The cherry blossom was beautiful along side Schulkyll. The pedals were flying and dancing in the wind as my friend and I ran by. It reminded me of a very old Chinese video game called "仙剑奇侠传", when the heroine dies at the end (oops, spoiler alert), the cherry blossoms flew all over the screen.
         - My roommate's banana at 16mi tasted amazing.
         - The water from the fountain at 23mi tasted incredible.
         - After more than 5 hours of running, I finally got home, and celebrated with a small hot meal, some coffee and a no-fun-keto snack bar. Then I put on warm clothes and fuzzy socks, sat down and wrote this thing as my futile effort to capture life's good but rare moments like this.
