@@ -1,5 +1,5 @@
 ---
-title: 'Smith-Waterman dynamics programming for calculationg edit distance.'
+title: 'Smith-Waterman dynamics programming for calculating edit distance.'
 date: 2023-04-25
 excerpt: "The recursive method runs slow as it calls the same function many times. Dynamics programming address that by recording the answer for later calling."
 permalink: /posts/2023/04/dynamics-programming-for-edit-distance/
