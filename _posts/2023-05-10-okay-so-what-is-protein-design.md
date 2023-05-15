@@ -65,4 +65,4 @@ The main challenge of solving the design problem is that the possible sequence s
 
 A common work around is to Monte Carlo sampling (the old Rosetta design) or other statistically based method. Our lab adopts an entropy based probabilistic model.
 
-Of course, the new and hot area of machine learning are providing promising models to solve the problem, such as the newly published ProteinMPNN model, which utilize the Transformer framework.
+Of course, the new and hot area of machine learning are providing promising models to solve the problem, such as the newly published ProteinMPNN model, which is a graph network.
