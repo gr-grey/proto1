@@ -296,7 +296,7 @@ GTCTCCGGGGGCTGGGGGAACCAGGGGTTCCCACCAACCACCCTCACTCAGCCTTTTCCCTCCAGGCATCTCTGGGAAAG
 
 ## <a name="seg8"></a>Common pitfalls
 
-Beware of common pitfalls when handling all these formats. These points are brought up by Dr. Aaron Quilan in his course of [Applied Computational Genomics](https://www.youtube.com/watch?v=tq3GeDXbZXA&t=2079s).
+Beware of common pitfalls when handling all these formats. These points are brought up by Dr. Aaron Quinlan in his course of [Applied Computational Genomics](https://www.youtube.com/watch?v=tq3GeDXbZXA&t=2079s).
 - inconsistent chromosome labels (chr1 v Chr1 v CHR1)
 - different sorting criteria (alphabetic v numerical)
 - mixed UNIX/Windows newlines
