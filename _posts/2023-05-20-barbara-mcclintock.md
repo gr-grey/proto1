@@ -48,11 +48,15 @@ The "jumping genes" - originally the mockery terms, were proven to be real, and 
 Suddenly Barbara McClintock became a scientific celebrity. 
 The world went crazy for her, and she got her Nobel prize in her late 80s.
 
-McClintock, staying true to her stoic nature, brushed off the fanfare and went back to focus on her beloved cornfields, and continued working until about a week before her death at the age of 90.
+McClintock, staying true to her stoic nature, said something like she simply reported what she had seen in corns, and she was never felt the necessity to win the arguments, and basically she just loved her work and wanted to go back to it. She continued working until about a week before her death at the age of 90.
 
-To sum up this inspiring page of science history, Barbara McClintock discovered jumping genes on her own and staked her career on it. Most people people thought she was out of her mind and she was vindicated 35 years later - 35 years! that's more time than I have existed on earth.
+To sum up this inspiring page of science history, Barbara McClintock discovered jumping genes on her own and staked her career on it. Most people people thought she was out of her mind, and she was vindicated 35 years later - 35 years! that's more time than I have existed on earth.
 
 Till this day, she remains the only woman to have been awarded the Nobel Prize in Medicine by herself, without sharing it with anyone.
+
+![McClintock working in her beloved cornfield](https://www.researchgate.net/publication/325861273/figure/fig2/AS:639489835802631@1529477666336/Barbara-McClintock-in-Cold-Spring-Harbor-1951-Wolf-Prize-1981-Nobel-Prize-1983-From.png)
+
+Barbara McClintock in Cold Spring Harbor, 1951, continuing her research on corn genetics after the field had rejected her theory of jumping genes.
 
 ## Why are genes jumping?
 
@@ -87,4 +91,20 @@ When facing brand new intruders, our immune system would also do the jumping gen
 
 ---
 
-I hope you enjoyed her story, and the next time you gaze upon a field of corn, maybe take a moment to remember Barbara McClintock, the brilliant scientist who unlocked the secrets of jumping genes.
+While there's a certain charm to the whole "getting wronged by the world and vindicated later" narrative - we love the "comeback" story arc, the heroine herself might not see it that way, which might be part of the reason she was able to pull it off - maybe she was able to wait for 35 years because she did not think about the public opinion much, she was simply focused on her science.
+
+The mainstream mocking part of the story reminds me of [Lex's interview with OpenAI's CEO Sam Altman](https://www.youtube.com/watch?v=L_Guz73e6fw) (which I highly recommend). 
+Sam Altman talked about when the company first announced they were working on AGI (artificial general intelligence) back in 2015, they were attacked and mocked and ridiculed by some eminent AI researchers, "people think we are batshit insane". 
+
+Fast forward 7 years, Sam says "We don't get mocked as much now".
+
+Going against the mass majority is scary, which is why it's so beautiful to see people sticking to their guns and holding their ground.
+
+The German philosopher Arthur Schopenhauer once said:
+
+> All truth passes through three stages. <br>
+> First, it is ridiculed.  <br>
+> Second, it is violently opposed. <br>
+> Third, it is accepted as being self-evident.
+
+The next time you gaze upon a field of corn, maybe take a moment to remember Barbara McClintock, the brilliant scientist who unlocked the secrets of jumping genes.
