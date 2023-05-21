@@ -2,7 +2,7 @@
 title: 'Okay... so, what is protein design?'
 date: 2023-05-10
 excerpt: "In plain English: it's \"2dloFahplA\" - AlphaFold2 reversed."
-permalink: /posts/2023/04/okay-so-what-is-protein-design/
+permalink: /posts/2023/05/okay-so-what-is-protein-design/
 tags:
   - protein design
   - okay so series
