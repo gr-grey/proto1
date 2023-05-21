@@ -124,6 +124,11 @@
     background-position: center;
     animation: intro 0.3s both;
     animation-delay: 0.25s;
+    // added 2023/05/20
+    // to make banner shrink in width
+    max-width: $large;
+    margin: auto auto;
+    // added 2023/05/20
 
     a {
       color: #fff;
@@ -177,7 +182,7 @@
 
 .page__hero-image2 {
   width: auto;
-  height: auto;
+  height: 100%;
   -ms-interpolation-mode: bicubic;
 }
 
