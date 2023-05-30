@@ -68,7 +68,7 @@ Unlike us boring animals, plants can't run away from their problems - and btw so
 
 Plants have to come up with some fancy genetic tricks when facing adversity, they would move genes around (sometimes make a copy of a gene and stick it somewhere) - shuffle the cards, juggle the genes, in hope of stumbling upon some new combinations/ configurations that offer them advantages to survive the difficult situation.
 
-Later people found out that animals such as vertebrates and mammals also have transposons - in fact about half of our genomes are transposable elements.
+Later people found out that animals such as vertebrates and mammals also have transposons - in fact about [half of our genomes are transposable elements](https://gr-grey.github.io/courses/2023/03/introduction-to-genomics/#seg6).
 
 These elements were initially found in the immune system.
 When the world encounters a brand new pathogen (maybe a certain corona virus we all know too well by now) that no immune system has seen before, people get sick and miserable - then incredibly, as they recover, we'd find that their bodies have generated antibodies against these completely novel invaders.
